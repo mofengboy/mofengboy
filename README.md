@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mofengboy&show_icons=true&theme=tokyonight"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mofengboy&layout=compact&show_icons=true&theme=tokyonight" />
-
+|[![lisongqian's GitHub stats](https://github-readme-stats.vercel.app/api?username=mofengboy&&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mofengboy&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)](https://github.com/anuraghazra/github-readme-stats) |
+| ------ |------ |
 
 
+### Recent Updated Repositories
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=mofengboy&repo=Chain-of-all-beings&theme=tokyonight)](https://github.com/mofengboy/Chain-of-all-beings)
 
 
 <!--
